@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Easyeat_UseApp" parallel="classes" thread-count="5">
+<parameter name="browser" value="chrome" />
+
+	 <listeners>
+		<listener class-name="com.easyeat.userapp.utilities.Reporting" />
+	</listeners> 
+
+
+	  <test name="Restaurant search">
+		<classes>
+				<!--<class name="com.easyeat.userapp.testCases.TC_ReastaurantSearch_001" />
+			     <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder" />-->
+			   <!-- <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder2" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder3" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder4" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder5" />
+			     <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder6" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder7" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder8" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder9" />
+			    <class name="com.easyeat.userapp.testCases.TC_DeliveryOrder10" />
+		      	 <class name="com.easyeat.userapp.testCases.TC_PickupOrder" />-->
+		      	<!-- <class name="com.easyeat.userapp.testCases.TC_PickupOrder2" />
+		      	 <class name="com.easyeat.userapp.testCases.TC_PickupOrder3" />
+		      	 <class name="com.easyeat.userapp.testCases.TC_PickupOrder4" />
+		      	 <class name="com.easyeat.userapp.testCases.TC_PickupOrder5" />-->
+		  		 <class name="com.easyeat.userapp.testCases.TC_TakeAwayOrder" /> 
+		  		<!--  <class name="com.easyeat.userapp.testCases.TC_DeliveryScheduleOrder" />-->
+				    <!--<class name="com.easyeat.userapp.testCases.TC_PickUpScheduleOrder" />
+				  <class name="com.easyeat.userapp.testCases.TC_DineInOrder" /> -->
+
+
+		</classes>
+
+	 </test>
+	
+
+</suite>

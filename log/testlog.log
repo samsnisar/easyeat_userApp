@@ -1,0 +1,1884 @@
+2021-12-09 07:45:10,481 - UserApp Test -INFO - Url Opened
+2021-12-09 07:45:10,499 - UserApp Test -INFO - Url Opened
+2021-12-09 07:45:10,501 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:45:10,507 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:47:30,596 - UserApp Test -INFO - Url Opened
+2021-12-09 07:47:31,128 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:47:31,196 - UserApp Test -INFO - Url Opened
+2021-12-09 07:47:31,234 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:51:52,489 - UserApp Test -INFO - Url Opened
+2021-12-09 07:51:52,505 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:51:52,582 - UserApp Test -INFO - Url Opened
+2021-12-09 07:51:52,586 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:52:34,018 - UserApp Test -INFO - Url Opened
+2021-12-09 07:52:34,035 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:52:34,147 - UserApp Test -INFO - Url Opened
+2021-12-09 07:52:34,155 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:54:30,162 - UserApp Test -INFO - Url Opened
+2021-12-09 07:54:30,217 - UserApp Test -INFO - Url Opened
+2021-12-09 07:54:30,235 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:54:30,314 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:56:20,167 - UserApp Test -INFO - Url Opened
+2021-12-09 07:56:20,193 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:56:20,375 - UserApp Test -INFO - Url Opened
+2021-12-09 07:56:20,379 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:57:27,989 - UserApp Test -INFO - Url Opened
+2021-12-09 07:57:28,025 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:57:28,175 - UserApp Test -INFO - Url Opened
+2021-12-09 07:57:28,180 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:58:51,878 - UserApp Test -INFO - Url Opened
+2021-12-09 07:58:51,890 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 07:58:52,032 - UserApp Test -INFO - Url Opened
+2021-12-09 07:58:52,042 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:08:52,776 - UserApp Test -INFO - Url Opened
+2021-12-09 08:08:52,791 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:08:52,799 - UserApp Test -INFO - Url Opened
+2021-12-09 08:08:52,805 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:10:13,524 - UserApp Test -INFO - Url Opened
+2021-12-09 08:10:13,533 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:10:13,656 - UserApp Test -INFO - Url Opened
+2021-12-09 08:10:13,662 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:12:28,993 - UserApp Test -INFO - Url Opened
+2021-12-09 08:12:29,008 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:12:30,113 - UserApp Test -INFO - Url Opened
+2021-12-09 08:12:30,152 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 08:12:33,196 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 08:12:33,895 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 08:12:33,895 - UserApp Test -INFO - Verify Order Type
+2021-12-09 08:12:33,936 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 08:12:34,366 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 08:12:34,616 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 08:12:35,094 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 08:12:35,095 - UserApp Test -INFO - Verify Order Type
+2021-12-09 08:12:35,121 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 08:12:35,503 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 08:12:36,833 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 08:12:37,723 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 08:12:39,045 - UserApp Test -INFO - Item selected
+2021-12-09 08:12:39,952 - UserApp Test -INFO - Item selected
+2021-12-09 08:12:41,240 - UserApp Test -INFO - View cart is clicked
+2021-12-09 08:12:42,144 - UserApp Test -INFO - View cart is clicked
+2021-12-09 08:12:43,461 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 08:12:44,390 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 08:12:45,724 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 08:12:45,809 - UserApp Test -INFO - Signin to proceed
+2021-12-09 08:12:46,619 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 08:12:46,688 - UserApp Test -INFO - Signin to proceed
+2021-12-09 08:12:51,028 - UserApp Test -INFO - Proceed to pay
+2021-12-09 08:12:51,908 - UserApp Test -INFO - Proceed to pay
+2021-12-09 08:13:09,391 - UserApp Test -INFO - Payment completed
+2021-12-09 08:13:09,448 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 08:13:10,159 - UserApp Test -INFO - Order Type matched
+2021-12-09 08:13:15,230 - UserApp Test -INFO - Payment completed
+2021-12-09 08:13:15,260 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 08:13:15,713 - UserApp Test -INFO - Order Type matched
+2021-12-09 12:19:06,931 - UserApp Test -INFO - Url Opened
+2021-12-09 12:19:06,935 - UserApp Test -INFO - Url Opened
+2021-12-09 12:19:06,944 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 12:19:06,944 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 12:20:25,200 - UserApp Test -INFO - Url Opened
+2021-12-09 12:20:25,229 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 12:20:25,357 - UserApp Test -INFO - Url Opened
+2021-12-09 12:20:25,364 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:01:47,266 - UserApp Test -INFO - Url Opened
+2021-12-09 13:01:48,044 - UserApp Test -INFO - Url Opened
+2021-12-09 13:01:50,551 - UserApp Test -INFO - Url Opened
+2021-12-09 13:01:50,839 - UserApp Test -INFO - Url Opened
+2021-12-09 13:01:55,418 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:46,177 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:51,314 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:52,068 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:52,319 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:52,887 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:52,953 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:53,117 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:53,441 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:53,441 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:53,785 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:54,106 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:54,429 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:54,885 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:55,225 - UserApp Test -INFO - Url Opened
+2021-12-09 13:03:55,557 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:03:55,586 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:04:04,371 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:04:04,751 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:04:04,752 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:04:04,851 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:04:05,445 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:04:07,879 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:04:08,083 - UserApp Test -INFO - Url Opened
+2021-12-09 13:04:08,102 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:04:10,482 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:04:10,834 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:04:12,168 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:04:14,599 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:04:14,628 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-09 13:04:17,842 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:04:18,458 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:04:20,809 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:04:21,290 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:04:23,038 - UserApp Test -INFO - Item selected
+2021-12-09 13:04:25,023 - UserApp Test -INFO - Item selected
+2021-12-09 13:04:25,249 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:04:30,496 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:04:32,810 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:04:32,885 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:04:42,099 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:05:03,560 - UserApp Test -INFO - Payment completed
+2021-12-09 13:05:03,595 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:05:04,147 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:07:20,932 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:21,018 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:21,273 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:21,662 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:21,833 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:21,905 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:21,924 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:22,185 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:22,246 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:22,247 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:22,249 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:22,402 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:22,487 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:22,487 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:22,612 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:23,082 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:29,119 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:31,665 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:33,075 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:36,750 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:37,114 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:37,405 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:37,405 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:37,405 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:37,405 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:38,116 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-09 13:07:38,135 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:07:43,034 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:43,093 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:43,094 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:43,168 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:07:43,738 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:43,833 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:44,227 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:44,227 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:44,378 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:44,503 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:44,708 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:44,788 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:44,789 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:44,855 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:07:45,716 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:45,752 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:45,774 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:45,774 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:45,804 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:45,805 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:07:45,818 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:07:45,849 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:07:45,892 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:47,848 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:48,235 - UserApp Test -INFO - Url Opened
+2021-12-09 13:07:48,241 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:48,527 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:49,035 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:49,088 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:49,837 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:50,713 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:07:51,101 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:51,133 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:51,260 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:07:53,938 - UserApp Test -INFO - Item selected
+2021-12-09 13:07:54,375 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:54,549 - UserApp Test -INFO - Item selected
+2021-12-09 13:07:54,952 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:55,122 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:56,262 - UserApp Test -INFO - Item selected
+2021-12-09 13:07:56,859 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:07:57,119 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:07:57,788 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:07:58,401 - UserApp Test -INFO - Item selected
+2021-12-09 13:08:01,486 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:08:02,305 - UserApp Test -INFO - Item selected
+2021-12-09 13:08:03,915 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:08:03,953 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-09 13:08:04,297 - UserApp Test -INFO - Item selected
+2021-12-09 13:08:09,175 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:08:16,420 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:08:20,485 - UserApp Test -INFO - Item selected
+2021-12-09 13:09:25,996 - UserApp Test -INFO - Url Opened
+2021-12-09 13:09:26,011 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:09:26,743 - UserApp Test -INFO - Url Opened
+2021-12-09 13:09:26,752 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:09:27,605 - UserApp Test -INFO - Url Opened
+2021-12-09 13:09:27,699 - UserApp Test -INFO - Url Opened
+2021-12-09 13:09:27,714 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:09:27,794 - UserApp Test -INFO - Url Opened
+2021-12-09 13:09:27,837 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:09:27,909 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:09:30,577 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:09:31,035 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:09:32,117 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:09:32,236 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:09:32,334 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:09:35,445 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:09:35,447 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:09:35,519 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:09:36,446 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:09:36,446 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:09:36,486 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:09:37,136 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:09:37,137 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:09:37,159 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:09:37,745 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:09:37,745 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:09:37,775 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:09:38,402 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:09:38,402 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:09:38,432 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:09:38,834 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:09:40,323 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:09:40,421 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:09:40,533 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:09:41,592 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:15,004 - UserApp Test -INFO - Url Opened
+2021-12-09 13:10:15,027 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:10:16,996 - UserApp Test -INFO - Url Opened
+2021-12-09 13:10:17,026 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:10:17,247 - UserApp Test -INFO - Url Opened
+2021-12-09 13:10:17,265 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:10:17,508 - UserApp Test -INFO - Url Opened
+2021-12-09 13:10:17,861 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:10:19,482 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:10:19,647 - UserApp Test -INFO - Url Opened
+2021-12-09 13:10:19,657 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:10:20,020 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:10:20,021 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:10:20,054 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:10:20,730 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:21,346 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:10:21,424 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:10:21,425 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:10:21,479 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:10:21,553 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:10:21,939 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:10:21,940 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:10:22,054 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:10:22,150 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:10:23,024 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:23,121 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:23,283 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:10:23,283 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:10:23,330 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:10:23,929 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:10:24,337 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:24,386 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:10:24,789 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:10:24,790 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:10:24,955 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:10:25,956 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:10:28,567 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:10:29,218 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:10:29,591 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:10:30,217 - UserApp Test -INFO - Item selected
+2021-12-09 13:10:31,406 - UserApp Test -INFO - Item selected
+2021-12-09 13:10:31,941 - UserApp Test -INFO - Item selected
+2021-12-09 13:10:35,197 - UserApp Test -INFO - Item selected
+2021-12-09 13:10:35,956 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:10:43,155 - UserApp Test -INFO - Item selected
+2021-12-09 13:18:41,272 - UserApp Test -INFO - Url Opened
+2021-12-09 13:18:41,302 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:18:41,968 - UserApp Test -INFO - Url Opened
+2021-12-09 13:18:41,984 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:18:42,781 - UserApp Test -INFO - Url Opened
+2021-12-09 13:18:43,768 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:18:44,994 - UserApp Test -INFO - Url Opened
+2021-12-09 13:18:45,012 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:18:45,383 - UserApp Test -INFO - Url Opened
+2021-12-09 13:18:45,400 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:18:45,680 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:18:46,412 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:18:46,413 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:18:46,438 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:18:46,899 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:18:47,322 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:18:47,950 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:18:47,950 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:18:48,008 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:18:48,018 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:18:48,251 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:18:48,251 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:18:48,296 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:18:49,365 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:18:49,615 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:18:49,722 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:18:49,770 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:18:49,803 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:18:49,804 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:18:49,888 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:18:50,008 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:18:50,008 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:18:50,054 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:18:52,942 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:18:55,144 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:18:55,275 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:18:55,985 - UserApp Test -INFO - Item selected
+2021-12-09 13:18:56,651 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:18:56,926 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:18:58,958 - UserApp Test -INFO - Item selected
+2021-12-09 13:18:59,170 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:19:00,163 - UserApp Test -INFO - Item selected
+2021-12-09 13:19:01,155 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:19:02,243 - UserApp Test -INFO - Item selected
+2021-12-09 13:19:03,331 - UserApp Test -INFO - Item selected
+2021-12-09 13:19:05,517 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:19:07,924 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:19:10,100 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:19:10,152 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:19:15,553 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:19:34,856 - UserApp Test -INFO - Url Opened
+2021-12-09 13:19:34,872 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:19:35,055 - UserApp Test -INFO - Url Opened
+2021-12-09 13:19:35,068 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:19:39,067 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:19:39,273 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:19:39,409 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:19:39,410 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:19:39,448 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:19:39,576 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:19:39,577 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:19:39,621 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:19:40,124 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:19:40,273 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:19:42,434 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:19:43,267 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:19:44,708 - UserApp Test -INFO - Item selected
+2021-12-09 13:19:45,499 - UserApp Test -INFO - Item selected
+2021-12-09 13:19:46,970 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:19:47,758 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:19:49,188 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:19:49,976 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:19:51,389 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:19:51,479 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:19:52,321 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:19:52,423 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:19:56,662 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:20:02,624 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:20:14,720 - UserApp Test -INFO - Payment completed
+2021-12-09 13:20:14,770 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:20:15,327 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:20:32,535 - UserApp Test -INFO - Payment completed
+2021-12-09 13:20:32,569 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:20:33,177 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:25:01,800 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:01,815 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:02,515 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:02,530 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:02,845 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:03,298 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:06,195 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:06,915 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:07,234 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:07,234 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:07,327 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:25:07,709 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:07,856 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:07,857 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:07,885 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:25:08,239 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:25:08,716 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:08,716 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:08,750 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:25:09,228 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:25:12,719 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:25:14,150 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:25:16,403 - UserApp Test -INFO - Item selected
+2021-12-09 13:25:18,607 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:25:19,753 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:25:20,799 - UserApp Test -INFO - Item selected
+2021-12-09 13:25:26,938 - UserApp Test -INFO - Item selected
+2021-12-09 13:25:51,557 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:51,643 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:51,656 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:51,938 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:52,025 - UserApp Test -INFO - Url Opened
+2021-12-09 13:25:52,046 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:25:56,960 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:57,069 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:57,070 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:57,171 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:25:57,329 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:57,415 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:57,416 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:57,486 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:25:58,742 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:25:58,796 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:25:58,797 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:25:58,833 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:26:01,234 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:26:01,561 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:26:02,731 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:26:04,462 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:26:05,708 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:26:07,017 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:26:07,521 - UserApp Test -INFO - Item selected
+2021-12-09 13:26:08,115 - UserApp Test -INFO - Item selected
+2021-12-09 13:26:09,238 - UserApp Test -INFO - Item selected
+2021-12-09 13:26:11,499 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:26:14,162 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:26:21,693 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:26:21,858 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:26:27,195 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:26:48,194 - UserApp Test -INFO - Payment completed
+2021-12-09 13:26:48,231 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:26:48,911 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:47:55,965 - UserApp Test -INFO - Url Opened
+2021-12-09 13:47:56,011 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:47:56,229 - UserApp Test -INFO - Url Opened
+2021-12-09 13:47:56,253 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:47:56,536 - UserApp Test -INFO - Url Opened
+2021-12-09 13:47:57,072 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 13:48:00,167 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:48:00,272 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:48:00,272 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:48:00,311 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:48:00,410 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:48:00,663 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:48:00,664 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:48:00,730 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:48:01,286 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 13:48:02,516 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 13:48:02,518 - UserApp Test -INFO - Verify Order Type
+2021-12-09 13:48:02,549 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 13:48:03,490 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:48:04,205 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:48:04,506 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 13:48:06,005 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:48:06,461 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:48:06,828 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 13:48:08,226 - UserApp Test -INFO - Item selected
+2021-12-09 13:48:08,647 - UserApp Test -INFO - Item selected
+2021-12-09 13:48:09,060 - UserApp Test -INFO - Item selected
+2021-12-09 13:48:10,456 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:48:10,914 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:48:11,326 - UserApp Test -INFO - View cart is clicked
+2021-12-09 13:48:12,666 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:48:13,167 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:48:13,564 - UserApp Test -INFO - Click On Login to Pay
+2021-12-09 13:48:16,250 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:48:16,328 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:48:16,974 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:48:17,104 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:48:17,287 - UserApp Test -INFO - Enter mobile Number
+2021-12-09 13:48:17,375 - UserApp Test -INFO - Signin to proceed
+2021-12-09 13:48:21,551 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:48:22,339 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:48:22,659 - UserApp Test -INFO - Proceed to pay
+2021-12-09 13:48:39,860 - UserApp Test -INFO - Payment completed
+2021-12-09 13:48:39,912 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:48:41,043 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:48:46,656 - UserApp Test -INFO - Payment completed
+2021-12-09 13:48:46,709 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:48:46,808 - UserApp Test -INFO - Payment completed
+2021-12-09 13:48:46,881 - UserApp Test -INFO - Order Placed Verified
+2021-12-09 13:48:47,789 - UserApp Test -INFO - Order Type matched
+2021-12-09 13:48:47,799 - UserApp Test -INFO - Order Type matched
+2021-12-09 14:26:35,148 - UserApp Test -INFO - Url Opened
+2021-12-09 14:26:35,166 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 14:26:35,631 - UserApp Test -INFO - Url Opened
+2021-12-09 14:26:35,951 - UserApp Test -INFO - Url Opened
+2021-12-09 14:26:36,161 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 14:26:36,631 - UserApp Test -INFO - URL opened succcessfully
+2021-12-09 14:26:39,710 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 14:26:40,128 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 14:26:40,129 - UserApp Test -INFO - Verify Order Type
+2021-12-09 14:26:40,157 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 14:26:40,470 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 14:26:40,851 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 14:26:40,852 - UserApp Test -INFO - Verify Order Type
+2021-12-09 14:26:40,902 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 14:26:40,986 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 14:26:41,984 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 14:26:42,226 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-09 14:26:42,263 - UserApp Test -INFO - Verified Restaurant name
+2021-12-09 14:26:42,263 - UserApp Test -INFO - Verify Order Type
+2021-12-09 14:26:42,305 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-09 14:26:42,670 - UserApp Test -INFO - Open menu is clicked
+2021-12-09 14:26:44,163 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 14:26:47,573 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 14:26:48,123 - UserApp Test -INFO - Item selected
+2021-12-09 14:26:53,448 - UserApp Test -INFO - Menu Category is Selected
+2021-12-09 14:26:54,744 - UserApp Test -INFO - Item selected
+2021-12-09 14:27:00,634 - UserApp Test -INFO - Item selected
+2021-12-13 15:15:29,609 - UserApp Test -INFO - Url Opened
+2021-12-13 15:15:29,609 - UserApp Test -INFO - Url Opened
+2021-12-13 15:15:29,640 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:15:29,640 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:15:29,852 - UserApp Test -INFO - Url Opened
+2021-12-13 15:15:29,863 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:15:34,012 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:15:34,220 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:15:35,220 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:15:35,221 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:15:35,263 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:15:35,971 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:15:36,063 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:15:36,063 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:15:36,103 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:15:36,290 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:15:36,291 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:15:36,318 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:15:37,026 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:15:37,253 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:15:37,433 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:16:35,846 - UserApp Test -INFO - Url Opened
+2021-12-13 15:16:35,846 - UserApp Test -INFO - Url Opened
+2021-12-13 15:16:35,860 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:16:35,860 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:16:40,253 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:16:40,306 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:16:40,562 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:16:40,562 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:16:40,599 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:16:40,732 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:16:40,733 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:16:40,779 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:16:41,111 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:16:41,554 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:16:43,349 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:16:45,632 - UserApp Test -INFO - Item selected
+2021-12-13 15:16:47,873 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:16:50,198 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:16:52,554 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:16:52,654 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:16:57,968 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:17:17,319 - UserApp Test -INFO - Payment completed
+2021-12-13 15:17:17,384 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:17:18,117 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:21:09,205 - UserApp Test -INFO - Url Opened
+2021-12-13 15:21:09,217 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:21:09,228 - UserApp Test -INFO - Url Opened
+2021-12-13 15:21:09,245 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:21:13,427 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:21:13,548 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:21:13,892 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:21:13,893 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:21:13,931 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:21:14,093 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:21:14,094 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:21:14,129 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:21:14,638 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:21:14,781 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:21:16,863 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:21:19,159 - UserApp Test -INFO - Item selected
+2021-12-13 15:21:21,416 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:21:23,679 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:21:26,027 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:21:26,163 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:21:31,415 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:21:49,747 - UserApp Test -INFO - Payment completed
+2021-12-13 15:21:49,789 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:21:50,515 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:22:23,472 - UserApp Test -INFO - Url Opened
+2021-12-13 15:22:23,621 - UserApp Test -INFO - Url Opened
+2021-12-13 15:22:23,642 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:22:23,665 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:22:27,956 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:22:28,066 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:22:28,066 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:22:28,107 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:22:28,138 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:22:28,242 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:22:28,242 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:22:28,283 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:22:28,815 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:22:28,985 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:22:31,076 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:22:31,317 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:22:33,345 - UserApp Test -INFO - Item selected
+2021-12-13 15:22:33,541 - UserApp Test -INFO - Item selected
+2021-12-13 15:22:35,587 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:22:35,798 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:22:37,936 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:22:38,076 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:22:40,223 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:22:40,310 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:22:40,494 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:22:40,616 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:22:45,609 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:22:45,840 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:23:05,465 - UserApp Test -INFO - Payment completed
+2021-12-13 15:23:05,518 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:23:06,409 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:28:10,666 - UserApp Test -INFO - Url Opened
+2021-12-13 15:28:10,941 - UserApp Test -INFO - Url Opened
+2021-12-13 15:28:10,968 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:03,379 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:03,587 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:04,503 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:04,844 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:04,892 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:05,536 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:05,576 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:05,738 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,050 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,153 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,192 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:06,257 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,493 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:06,505 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:06,578 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,814 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,872 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:06,876 - UserApp Test -INFO - Url Opened
+2021-12-13 15:29:06,896 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:06,939 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:29:10,092 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:10,092 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:10,099 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:10,136 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:10,136 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:11,049 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:11,049 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:11,145 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:11,862 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:12,508 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:13,808 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:13,808 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:13,841 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:14,812 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:14,980 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:15,060 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:15,060 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:15,244 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:15,315 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:15,321 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:15,522 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:15,648 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:15,649 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:15,729 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:16,011 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:16,088 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:16,089 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:16,198 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:16,779 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:16,989 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:16,989 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:17,144 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:17,162 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:17,162 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:17,283 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:17,284 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:17,342 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:17,432 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:17,611 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:18,025 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:18,261 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:18,422 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:18,422 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:18,537 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:18,958 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:19,544 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:29:19,681 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:29:19,682 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:29:19,935 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:29:20,623 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:21,761 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:21,795 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:21,854 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:22,044 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:22,075 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:22,212 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:22,374 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:23,315 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:23,911 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:29:25,003 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:25,317 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:25,323 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:25,867 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:26,188 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:26,342 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:26,685 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:26,713 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:26,841 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:27,012 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:29:28,170 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:28,435 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:28,907 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:29,005 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:29,013 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:29,239 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:29,449 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:30,948 - UserApp Test -INFO - Item selected
+2021-12-13 15:29:31,179 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:31,256 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:32,512 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:32,615 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:32,767 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:33,320 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:29:34,853 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:34,977 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:35,037 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:35,046 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:35,127 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:35,149 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:36,386 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:36,495 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:36,623 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:29:38,802 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:38,914 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:39,032 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:39,132 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:40,043 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:40,278 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:40,296 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:40,451 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:44,068 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:29:44,528 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:44,658 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:45,096 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:45,624 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:46,093 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:48,559 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:29:48,627 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:48,961 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:29:53,846 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:30:15,454 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:17,340 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:18,531 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:18,783 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:19,962 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:20,085 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:21,528 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:21,591 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:22,486 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:25,902 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:26,642 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:27,526 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:28,130 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:28,163 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:28,444 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:29,128 - UserApp Test -INFO - Payment completed
+2021-12-13 15:30:29,258 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:30:29,412 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:29,659 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:29,837 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:30:30,255 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:42:54,073 - UserApp Test -INFO - Url Opened
+2021-12-13 15:42:54,106 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:42:58,438 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:42:58,623 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:42:58,624 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:42:58,677 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:42:58,938 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:43:01,474 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:43:03,703 - UserApp Test -INFO - Item selected
+2021-12-13 15:43:05,918 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:43:08,269 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:43:10,631 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:43:10,775 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:43:16,055 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:43:34,629 - UserApp Test -INFO - Payment completed
+2021-12-13 15:43:34,694 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:43:35,217 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:45:35,286 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:37,089 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:37,713 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:37,737 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:37,792 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:37,804 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:39,535 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:39,679 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:39,908 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:40,413 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:40,477 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:42,647 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:42,809 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:42,809 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:42,996 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:43,891 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:43,965 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:43,982 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:44,012 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:44,394 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:44,782 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:45,024 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:45,041 - UserApp Test -INFO - Url Opened
+2021-12-13 15:45:45,041 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:45,104 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:45,136 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:45:45,376 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:45,388 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:45,388 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:45,416 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:45,417 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:45,541 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:45,555 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:45,597 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:45,598 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:45,639 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:46,125 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:46,380 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:46,639 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:48,169 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:48,336 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:48,336 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:48,881 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:48,924 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:49,961 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:50,049 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:50,166 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:50,267 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:51,277 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:51,363 - UserApp Test -INFO - Item selected
+2021-12-13 15:45:51,546 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:51,546 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:51,729 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:52,774 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:52,775 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:52,853 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:54,024 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:54,102 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:45:54,143 - UserApp Test -INFO - Item selected
+2021-12-13 15:45:54,274 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:54,612 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:54,641 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:45:54,689 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:54,689 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:54,719 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:54,720 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:54,820 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:54,837 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:54,883 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:45:54,883 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:45:55,128 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:45:55,164 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:55,213 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:55,273 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:55,330 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:45:57,084 - UserApp Test -INFO - Item selected
+2021-12-13 15:45:58,947 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:59,213 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:59,330 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:45:59,527 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:45:59,610 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:46:02,219 - UserApp Test -INFO - Item selected
+2021-12-13 15:46:02,234 - UserApp Test -INFO - Item selected
+2021-12-13 15:46:03,093 - UserApp Test -INFO - Item selected
+2021-12-13 15:46:06,729 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:46:06,863 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:46:12,131 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:46:32,440 - UserApp Test -INFO - Payment completed
+2021-12-13 15:46:32,481 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:46:33,217 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:47:07,317 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:08,154 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:09,707 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:09,898 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:10,194 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:10,646 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:10,733 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:10,822 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:10,875 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:10,894 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:10,947 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:10,990 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:11,885 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:12,823 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:12,862 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:12,919 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:13,024 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:13,049 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:14,402 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:14,438 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:14,439 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:14,466 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:15,080 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:15,781 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:15,823 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:15,823 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:15,956 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:16,101 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:16,124 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:16,124 - UserApp Test -INFO - Url Opened
+2021-12-13 15:47:16,138 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:47:16,185 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:16,186 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:16,317 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:16,317 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:16,334 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:16,430 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:16,433 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:16,433 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:16,531 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:17,145 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:17,165 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:17,888 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:17,927 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:18,245 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:18,257 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:18,258 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:18,309 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:19,575 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:19,739 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:19,739 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:19,844 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:20,005 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:20,142 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:20,142 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:20,221 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:20,516 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:47:21,132 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:21,204 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:21,217 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:21,217 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:21,315 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:22,310 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:22,348 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:47:22,349 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:47:22,354 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:22,417 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:47:22,757 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:47:23,423 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:24,272 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:47:24,305 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:26,321 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:47:26,323 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:47:26,600 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:47:26,775 - UserApp Test -INFO - Item selected
+2021-12-13 15:47:27,338 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:47:28,661 - UserApp Test -INFO - Item selected
+2021-12-13 15:47:29,091 - UserApp Test -INFO - Item selected
+2021-12-13 15:47:29,218 - UserApp Test -INFO - Item selected
+2021-12-13 15:47:29,225 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:47:29,616 - UserApp Test -INFO - Item selected
+2021-12-13 15:47:31,548 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:47:31,683 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:47:34,880 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:47:35,085 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:47:36,918 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:47:40,002 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:47:40,133 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:47:45,336 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:47:46,878 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:48:08,898 - UserApp Test -INFO - Payment completed
+2021-12-13 15:48:08,966 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:48:09,691 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:48:12,527 - UserApp Test -INFO - Payment completed
+2021-12-13 15:48:12,597 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:48:13,204 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:50:59,355 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:02,955 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:03,713 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:04,303 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:05,753 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:05,818 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:06,718 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:06,773 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:07,055 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:07,055 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:07,081 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:07,092 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:07,219 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:07,219 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:07,222 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:07,222 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:07,523 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:07,991 - UserApp Test -INFO - Url Opened
+2021-12-13 15:51:08,022 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:08,109 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:51:09,335 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:10,609 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:11,580 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:12,040 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:12,228 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:12,448 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:12,448 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:12,517 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:12,527 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:12,990 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:13,467 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:13,467 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:13,509 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:13,692 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:13,692 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:13,829 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:13,921 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:13,958 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:13,959 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:14,130 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:14,199 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:14,349 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:14,349 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:14,401 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:14,412 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:14,413 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:14,539 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:14,571 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:15,102 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:15,204 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:15,204 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:15,294 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:15,847 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:51:15,911 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:15,911 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:15,965 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:16,485 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:16,486 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:16,532 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:16,532 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:17,156 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:17,160 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:17,344 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:17,361 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:17,498 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:17,574 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:17,787 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:18,113 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:18,386 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:51:18,386 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:51:18,450 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:51:19,537 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:19,698 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:20,220 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:20,815 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:20,819 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:20,857 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:20,915 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:51:22,005 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:51:22,435 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:22,982 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:23,098 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:23,686 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:23,855 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:24,099 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:24,118 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:51:24,755 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:51:25,357 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:51:26,372 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:27,245 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:51:28,050 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:51:28,166 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:29,257 - UserApp Test -INFO - Item selected
+2021-12-13 15:51:29,741 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:51:29,877 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:51:30,325 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:51:30,504 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:51:30,676 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:51:33,345 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:51:33,602 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:51:39,275 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:51:39,940 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:51:42,903 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:52:01,672 - UserApp Test -INFO - Payment completed
+2021-12-13 15:52:01,738 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:52:02,685 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:52:05,614 - UserApp Test -INFO - Payment completed
+2021-12-13 15:52:05,688 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:52:07,104 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:52:08,237 - UserApp Test -INFO - Payment completed
+2021-12-13 15:52:08,324 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:52:09,518 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:53:35,627 - UserApp Test -INFO - Url Opened
+2021-12-13 15:53:35,640 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:53:35,694 - UserApp Test -INFO - Url Opened
+2021-12-13 15:53:35,733 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:53:35,733 - UserApp Test -INFO - Url Opened
+2021-12-13 15:53:35,744 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:53:35,840 - UserApp Test -INFO - Url Opened
+2021-12-13 15:53:35,846 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:53:35,985 - UserApp Test -INFO - Url Opened
+2021-12-13 15:53:35,993 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:53:39,956 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:53:40,053 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:53:40,072 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:53:40,149 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:53:40,280 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:53:40,659 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:53:40,661 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:53:40,716 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:53:41,761 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:53:41,761 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:53:41,801 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:53:42,148 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:53:42,148 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:53:42,178 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:53:42,425 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:53:42,425 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:53:42,469 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:53:42,776 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:53:42,777 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:53:42,818 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:53:45,095 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:53:45,220 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:53:45,228 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:53:45,315 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:53:45,380 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:53:50,751 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:53:51,340 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:53:51,501 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:53:51,950 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:53:55,594 - UserApp Test -INFO - Item selected
+2021-12-13 15:53:56,004 - UserApp Test -INFO - Item selected
+2021-12-13 15:53:56,868 - UserApp Test -INFO - Item selected
+2021-12-13 15:53:57,262 - UserApp Test -INFO - Item selected
+2021-12-13 15:54:49,904 - UserApp Test -INFO - Url Opened
+2021-12-13 15:54:51,022 - UserApp Test -INFO - Url Opened
+2021-12-13 15:54:51,049 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:54:51,279 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:54:51,401 - UserApp Test -INFO - Url Opened
+2021-12-13 15:54:51,401 - UserApp Test -INFO - Url Opened
+2021-12-13 15:54:51,420 - UserApp Test -INFO - Url Opened
+2021-12-13 15:54:51,427 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:54:51,427 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:54:51,435 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:54:55,314 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:54:55,688 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:54:55,804 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:54:55,805 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:54:55,918 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:54:55,940 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:54:55,971 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:54:55,992 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:54:56,224 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:54:56,225 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:54:56,255 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:54:56,256 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:54:56,286 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:54:56,347 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:54:56,415 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:54:56,416 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:54:56,448 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:54:58,298 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:54:58,299 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:54:58,341 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:55:00,663 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:55:00,957 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:55:00,973 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:55:01,043 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:55:01,254 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:55:03,394 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:55:03,777 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:55:03,830 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:55:06,005 - UserApp Test -INFO - Item selected
+2021-12-13 15:55:06,400 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:55:08,619 - UserApp Test -INFO - Item selected
+2021-12-13 15:55:08,627 - UserApp Test -INFO - Item selected
+2021-12-13 15:55:09,105 - UserApp Test -INFO - Item selected
+2021-12-13 15:55:10,861 - UserApp Test -INFO - View cart is clicked
+2021-12-13 15:55:16,288 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 15:55:23,611 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 15:55:23,685 - UserApp Test -INFO - Signin to proceed
+2021-12-13 15:55:28,932 - UserApp Test -INFO - Proceed to pay
+2021-12-13 15:55:50,752 - UserApp Test -INFO - Payment completed
+2021-12-13 15:55:50,792 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 15:55:51,683 - UserApp Test -INFO - Order Type matched
+2021-12-13 15:56:05,074 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:05,103 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:05,238 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:05,626 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:06,822 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:06,840 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:06,917 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:06,931 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:07,029 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:07,036 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:09,476 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:10,043 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:10,053 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:10,053 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:10,093 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:10,105 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:10,106 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:10,157 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:11,101 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:11,166 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:11,310 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:11,814 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:11,815 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:11,817 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:11,817 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:11,851 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:11,852 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:12,023 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:12,023 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:12,054 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:15,007 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:15,299 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:16,214 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:16,264 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:16,474 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:22,419 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:56:23,863 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:56:29,695 - UserApp Test -INFO - Item selected
+2021-12-13 15:56:30,938 - UserApp Test -INFO - Item selected
+2021-12-13 15:56:44,617 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:45,017 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:46,664 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:46,827 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:46,898 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:46,905 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:46,907 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:46,916 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:46,935 - UserApp Test -INFO - Url Opened
+2021-12-13 15:56:46,989 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:56:49,341 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:51,021 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:51,268 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:51,310 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:51,332 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:56:51,604 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:51,605 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:51,649 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:52,067 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:52,068 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:52,102 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:52,181 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:52,181 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:52,214 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:53,874 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:53,874 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:53,913 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:54,057 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:56:54,058 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:56:54,103 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:56:54,454 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:54,609 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:56,155 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:56,404 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:56,439 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:56:57,762 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:56:58,398 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:56:58,944 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:57:01,129 - UserApp Test -INFO - Item selected
+2021-12-13 15:57:01,283 - UserApp Test -INFO - Item selected
+2021-12-13 15:57:01,624 - UserApp Test -INFO - Item selected
+2021-12-13 15:57:02,294 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:57:04,472 - UserApp Test -INFO - Item selected
+2021-12-13 15:58:48,171 - UserApp Test -INFO - Url Opened
+2021-12-13 15:58:48,451 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:58:49,765 - UserApp Test -INFO - Url Opened
+2021-12-13 15:58:49,799 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:58:49,809 - UserApp Test -INFO - Url Opened
+2021-12-13 15:58:49,822 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:58:49,987 - UserApp Test -INFO - Url Opened
+2021-12-13 15:58:50,011 - UserApp Test -INFO - Url Opened
+2021-12-13 15:58:50,016 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:58:50,020 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 15:58:52,813 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:58:53,526 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:58:53,526 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:58:53,571 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:58:54,251 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:58:54,458 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:58:54,597 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:58:54,619 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:58:54,632 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 15:58:54,662 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:58:54,663 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:58:54,683 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:58:54,684 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:58:54,723 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:58:54,790 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:58:54,791 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:58:54,820 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:58:54,843 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:58:55,011 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 15:58:55,012 - UserApp Test -INFO - Verify Order Type
+2021-12-13 15:58:55,050 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 15:58:59,246 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:58:59,257 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:58:59,584 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:58:59,589 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 15:58:59,710 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:59:02,019 - UserApp Test -INFO - Item selected
+2021-12-13 15:59:03,599 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:59:06,025 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:59:06,380 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:59:06,454 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 15:59:08,277 - UserApp Test -INFO - Item selected
+2021-12-13 15:59:08,617 - UserApp Test -INFO - Item selected
+2021-12-13 15:59:08,678 - UserApp Test -INFO - Item selected
+2021-12-13 15:59:08,791 - UserApp Test -INFO - Item selected
+2021-12-13 16:00:08,668 - UserApp Test -INFO - Url Opened
+2021-12-13 16:00:08,935 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:00:10,283 - UserApp Test -INFO - Url Opened
+2021-12-13 16:00:10,354 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:00:10,370 - UserApp Test -INFO - Url Opened
+2021-12-13 16:00:10,426 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:00:10,487 - UserApp Test -INFO - Url Opened
+2021-12-13 16:00:10,501 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:00:10,556 - UserApp Test -INFO - Url Opened
+2021-12-13 16:00:10,571 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:00:13,414 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:00:13,499 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:00:13,500 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:00:13,560 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:00:14,585 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:00:14,794 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:00:14,810 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:00:14,811 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:00:14,888 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:00:14,935 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:00:15,023 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:00:15,771 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:00:15,772 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:00:15,800 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:00:16,869 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:00:16,870 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:00:16,911 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:00:17,079 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:00:17,079 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:00:17,112 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:00:17,546 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:00:19,654 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:00:19,831 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:00:20,025 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:00:20,031 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:00:23,942 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 16:00:24,356 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 16:00:25,818 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 16:00:27,569 - UserApp Test -INFO - Item selected
+2021-12-13 16:00:27,956 - UserApp Test -INFO - Item selected
+2021-12-13 16:00:30,414 - UserApp Test -INFO - Item selected
+2021-12-13 16:01:17,545 - UserApp Test -INFO - Url Opened
+2021-12-13 16:01:17,665 - UserApp Test -INFO - URL opened succcessfully
+2021-12-13 16:01:22,001 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-13 16:01:22,088 - UserApp Test -INFO - Verified Restaurant name
+2021-12-13 16:01:22,090 - UserApp Test -INFO - Verify Order Type
+2021-12-13 16:01:22,205 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-13 16:01:22,485 - UserApp Test -INFO - Open menu is clicked
+2021-12-13 16:01:24,710 - UserApp Test -INFO - Menu Category is Selected
+2021-12-13 16:01:26,896 - UserApp Test -INFO - Item selected
+2021-12-13 16:01:29,169 - UserApp Test -INFO - View cart is clicked
+2021-12-13 16:01:31,479 - UserApp Test -INFO - Click On Login to Pay
+2021-12-13 16:01:33,812 - UserApp Test -INFO - Enter mobile Number
+2021-12-13 16:01:33,925 - UserApp Test -INFO - Signin to proceed
+2021-12-13 16:01:39,172 - UserApp Test -INFO - Proceed to pay
+2021-12-13 16:01:57,165 - UserApp Test -INFO - Payment completed
+2021-12-13 16:01:57,227 - UserApp Test -INFO - Order Placed Verified
+2021-12-13 16:01:57,775 - UserApp Test -INFO - Order Type matched
+2021-12-13 18:01:32,144 - UserApp Test -INFO - Url Opened
+2021-12-13 18:01:32,171 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 18:56:31,350 - UserApp Test -INFO - Url Opened
+2021-12-14 18:56:31,384 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 18:56:34,137 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 18:56:34,197 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 18:56:34,197 - UserApp Test -INFO - Verify Order Type
+2021-12-14 18:56:34,224 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-14 18:56:34,505 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 18:56:36,823 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 18:56:39,041 - UserApp Test -INFO - Item selected
+2021-12-14 18:56:41,246 - UserApp Test -INFO - View cart is clicked
+2021-12-14 18:56:43,444 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 18:56:50,694 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 18:56:50,756 - UserApp Test -INFO - Signin to proceed
+2021-12-14 18:56:55,844 - UserApp Test -INFO - Place Order
+2021-12-14 18:57:00,894 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 18:57:07,341 - UserApp Test -INFO - Clicked on Pay Now
+2021-12-14 18:57:26,961 - UserApp Test -INFO - Payment completed
+2021-12-14 18:57:52,522 - UserApp Test -INFO - Url Opened
+2021-12-14 18:57:52,534 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 18:57:54,811 - UserApp Test -INFO - Url Opened
+2021-12-14 18:57:54,826 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 18:57:55,244 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 18:57:55,284 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 18:57:55,285 - UserApp Test -INFO - Verify Order Type
+2021-12-14 18:57:55,331 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-14 18:57:55,672 - UserApp Test -INFO - Url Opened
+2021-12-14 18:57:55,680 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 18:57:57,009 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 18:57:57,137 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 18:57:57,899 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 18:57:58,071 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 18:57:58,072 - UserApp Test -INFO - Verify Order Type
+2021-12-14 18:57:58,109 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 18:58:00,316 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 18:58:01,258 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 18:58:01,280 - UserApp Test -INFO - Verify Order Type
+2021-12-14 18:58:01,324 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-14 18:58:01,949 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 18:58:03,528 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 18:58:04,264 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 18:58:05,813 - UserApp Test -INFO - Item selected
+2021-12-14 18:58:06,501 - UserApp Test -INFO - Item selected
+2021-12-14 18:58:08,062 - UserApp Test -INFO - View cart is clicked
+2021-12-14 18:58:08,748 - UserApp Test -INFO - View cart is clicked
+2021-12-14 18:58:10,462 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 18:58:11,020 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 18:58:12,788 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 18:58:12,930 - UserApp Test -INFO - Signin to proceed
+2021-12-14 18:58:13,303 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 18:58:13,438 - UserApp Test -INFO - Signin to proceed
+2021-12-14 18:58:18,186 - UserApp Test -INFO - Proceed to pay
+2021-12-14 18:58:18,695 - UserApp Test -INFO - Proceed to pay
+2021-12-14 18:58:37,415 - UserApp Test -INFO - Payment completed
+2021-12-14 18:58:37,485 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 18:58:38,318 - UserApp Test -INFO - Order Type matched
+2021-12-14 18:58:41,618 - UserApp Test -INFO - Payment completed
+2021-12-14 18:58:41,706 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 18:58:42,875 - UserApp Test -INFO - Order Type matched
+2021-12-14 19:00:52,678 - UserApp Test -INFO - Url Opened
+2021-12-14 19:00:52,707 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:00:55,025 - UserApp Test -INFO - Url Opened
+2021-12-14 19:00:55,030 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:00:55,282 - UserApp Test -INFO - Url Opened
+2021-12-14 19:00:55,292 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:00:57,172 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:00:57,238 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:00:57,238 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:00:57,295 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-14 19:00:57,332 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:00:57,418 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:00:57,418 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:00:57,495 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:00:57,581 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:00:57,620 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:01:02,227 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:01:02,310 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:01:03,531 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:01:03,592 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-14 19:01:04,491 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:01:04,766 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:01:06,870 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:01:07,007 - UserApp Test -INFO - Item selected
+2021-12-14 19:01:09,142 - UserApp Test -INFO - Item selected
+2021-12-14 19:01:09,306 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:01:11,405 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:01:11,536 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:01:13,696 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:01:13,803 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:01:13,889 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:01:16,001 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:01:16,123 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:01:19,155 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:01:21,401 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:01:39,918 - UserApp Test -INFO - Payment completed
+2021-12-14 19:01:39,970 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 19:01:40,566 - UserApp Test -INFO - Order Type matched
+2021-12-14 19:03:25,507 - UserApp Test -INFO - Url Opened
+2021-12-14 19:03:25,534 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:03:25,600 - UserApp Test -INFO - Url Opened
+2021-12-14 19:03:25,636 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:03:27,818 - UserApp Test -INFO - Url Opened
+2021-12-14 19:03:27,835 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:03:28,945 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:03:28,986 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:03:29,430 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:03:29,493 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:03:29,494 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:03:29,562 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:03:30,076 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:03:30,115 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:03:30,115 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:03:30,141 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-14 19:03:32,673 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:03:32,721 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-14 19:03:32,977 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:03:34,248 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:03:34,950 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:03:35,354 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:03:37,619 - UserApp Test -INFO - Item selected
+2021-12-14 19:03:39,917 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:03:42,191 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:03:44,469 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:03:44,589 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:03:54,893 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:04:26,487 - UserApp Test -INFO - Payment completed
+2021-12-14 19:04:26,543 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 19:04:27,095 - UserApp Test -INFO - Order Type matched
+2021-12-14 19:13:49,220 - UserApp Test -INFO - Url Opened
+2021-12-14 19:13:49,301 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:13:51,858 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:13:52,005 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:13:52,005 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:13:52,116 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:13:52,460 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:13:54,836 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:13:57,046 - UserApp Test -INFO - Item selected
+2021-12-14 19:13:59,342 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:14:01,651 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:14:03,965 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:14:04,061 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:14:09,317 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:15:14,823 - UserApp Test -INFO - Url Opened
+2021-12-14 19:15:15,686 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:15:18,192 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:15:18,270 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:15:18,270 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:15:18,407 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:15:18,735 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:15:21,116 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:15:23,343 - UserApp Test -INFO - Item selected
+2021-12-14 19:15:25,635 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:15:27,955 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:15:30,274 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:15:30,396 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:15:35,651 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:16:20,758 - UserApp Test -INFO - Url Opened
+2021-12-14 19:16:20,828 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:16:23,303 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:16:23,371 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:16:23,371 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:16:23,465 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:16:23,701 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:16:26,022 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:16:28,241 - UserApp Test -INFO - Item selected
+2021-12-14 19:16:30,439 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:16:32,766 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:16:35,094 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:16:35,246 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:16:40,519 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:19:50,038 - UserApp Test -INFO - Url Opened
+2021-12-14 19:19:50,138 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:19:52,598 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:19:52,719 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:19:52,720 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:19:52,795 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:19:53,138 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:19:55,519 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:19:57,715 - UserApp Test -INFO - Item selected
+2021-12-14 19:20:00,038 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:20:02,379 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:20:04,719 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:20:04,845 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:20:10,104 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:20:30,153 - UserApp Test -INFO - Payment completed
+2021-12-14 19:20:30,235 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 19:20:30,772 - UserApp Test -INFO - Order Type matched
+2021-12-14 19:21:58,868 - UserApp Test -INFO - Url Opened
+2021-12-14 19:21:58,954 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:22:01,515 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:22:01,594 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:22:01,595 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:22:01,749 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:22:02,066 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:22:04,392 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:22:06,587 - UserApp Test -INFO - Item selected
+2021-12-14 19:22:08,897 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:22:11,199 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:22:13,534 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:22:13,664 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:22:18,922 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:22:45,229 - UserApp Test -INFO - Url Opened
+2021-12-14 19:22:46,062 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:22:48,593 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:22:48,675 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:22:48,676 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:22:48,822 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:22:49,185 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:22:51,623 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:22:53,835 - UserApp Test -INFO - Item selected
+2021-12-14 19:22:56,135 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:22:58,467 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:23:00,806 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:23:00,916 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:23:06,174 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:23:26,461 - UserApp Test -INFO - Payment completed
+2021-12-14 19:23:26,542 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 19:23:27,030 - UserApp Test -INFO - Order Type matched
+2021-12-14 19:24:41,184 - UserApp Test -INFO - Url Opened
+2021-12-14 19:24:41,230 - UserApp Test -INFO - URL opened succcessfully
+2021-12-14 19:24:43,815 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-14 19:24:43,912 - UserApp Test -INFO - Verified Restaurant name
+2021-12-14 19:24:43,912 - UserApp Test -INFO - Verify Order Type
+2021-12-14 19:24:44,064 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-14 19:24:44,369 - UserApp Test -INFO - Open menu is clicked
+2021-12-14 19:24:46,755 - UserApp Test -INFO - Menu Category is Selected
+2021-12-14 19:24:48,957 - UserApp Test -INFO - Item selected
+2021-12-14 19:24:51,172 - UserApp Test -INFO - View cart is clicked
+2021-12-14 19:24:53,498 - UserApp Test -INFO - Click On Login to Pay
+2021-12-14 19:24:55,844 - UserApp Test -INFO - Enter mobile Number
+2021-12-14 19:24:55,974 - UserApp Test -INFO - Signin to proceed
+2021-12-14 19:25:01,220 - UserApp Test -INFO - Proceed to pay
+2021-12-14 19:25:21,482 - UserApp Test -INFO - Payment completed
+2021-12-14 19:25:21,554 - UserApp Test -INFO - Order Placed Verified
+2021-12-14 19:25:22,068 - UserApp Test -INFO - Order Type matched
+2021-12-15 13:09:49,926 - UserApp Test -INFO - Url Opened
+2021-12-15 13:09:49,945 - UserApp Test -INFO - URL opened succcessfully
+2021-12-15 13:09:54,415 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-15 13:09:54,461 - UserApp Test -INFO - Verified Restaurant name
+2021-12-15 13:09:54,462 - UserApp Test -INFO - Verify Order Type
+2021-12-15 13:09:54,515 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-15 15:42:31,184 - UserApp Test -INFO - Url Opened
+2021-12-15 15:42:31,224 - UserApp Test -INFO - URL opened succcessfully
+2021-12-15 15:42:35,630 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-15 15:42:35,708 - UserApp Test -INFO - Verified Restaurant name
+2021-12-15 15:42:35,708 - UserApp Test -INFO - Verify Order Type
+2021-12-15 15:42:35,764 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-15 15:42:54,043 - UserApp Test -INFO - Url Opened
+2021-12-15 15:42:54,053 - UserApp Test -INFO - URL opened succcessfully
+2021-12-15 15:42:58,404 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-15 15:42:58,456 - UserApp Test -INFO - Verified Restaurant name
+2021-12-15 15:42:58,457 - UserApp Test -INFO - Verify Order Type
+2021-12-15 15:42:58,488 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-15 15:43:44,517 - UserApp Test -INFO - Url Opened
+2021-12-15 15:43:44,527 - UserApp Test -INFO - URL opened succcessfully
+2021-12-15 15:43:48,880 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-15 15:43:48,930 - UserApp Test -INFO - Verified Restaurant name
+2021-12-15 15:43:48,930 - UserApp Test -INFO - Verify Order Type
+2021-12-15 15:43:48,956 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-15 15:43:49,324 - UserApp Test -INFO - Open menu is clicked
+2021-12-15 15:43:51,629 - UserApp Test -INFO - Menu Category is Selected
+2021-12-15 15:43:53,866 - UserApp Test -INFO - Item selected
+2021-12-15 15:49:15,275 - UserApp Test -INFO - Url Opened
+2021-12-15 15:49:15,288 - UserApp Test -INFO - URL opened succcessfully
+2021-12-15 15:49:19,842 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-15 15:49:20,087 - UserApp Test -INFO - Verified Restaurant name
+2021-12-15 15:49:20,088 - UserApp Test -INFO - Verify Order Type
+2021-12-15 15:49:20,152 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-15 15:49:20,618 - UserApp Test -INFO - Open menu is clicked
+2021-12-15 15:49:22,964 - UserApp Test -INFO - Menu Category is Selected
+2021-12-15 15:49:25,231 - UserApp Test -INFO - Item selected
+2021-12-15 15:49:27,554 - UserApp Test -INFO - View cart is clicked
+2021-12-15 15:49:29,791 - UserApp Test -INFO - Click On Login to Pay
+2021-12-15 15:49:32,099 - UserApp Test -INFO - Enter mobile Number
+2021-12-15 15:49:32,172 - UserApp Test -INFO - Signin to proceed
+2021-12-15 15:49:37,447 - UserApp Test -INFO - Proceed to pay
+2021-12-15 15:49:56,327 - UserApp Test -INFO - Payment completed
+2021-12-15 15:49:56,394 - UserApp Test -INFO - Order Placed Verified
+2021-12-15 15:49:57,331 - UserApp Test -INFO - Order Type matched
+2021-12-16 19:02:40,012 - UserApp Test -INFO - Url Opened
+2021-12-16 19:02:40,070 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:02:40,137 - UserApp Test -INFO - Url Opened
+2021-12-16 19:02:40,224 - UserApp Test -INFO - Url Opened
+2021-12-16 19:02:40,233 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:02:40,247 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:02:42,416 - UserApp Test -INFO - Url Opened
+2021-12-16 19:02:42,490 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:02:43,555 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:02:43,747 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:02:43,748 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:02:43,795 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-16 19:02:44,259 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:02:44,366 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:02:44,366 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:02:44,430 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-16 19:02:44,536 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:02:44,593 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:02:46,728 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:02:47,004 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:02:48,371 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:02:48,371 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:02:48,408 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:02:49,369 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:02:51,798 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:02:54,018 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:02:54,636 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:02:57,466 - UserApp Test -INFO - Item selected
+2021-12-16 19:03:39,556 - UserApp Test -INFO - Url Opened
+2021-12-16 19:03:40,019 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:03:44,495 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:03:44,551 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:03:44,552 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:03:44,616 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:03:44,892 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:03:47,228 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:03:49,455 - UserApp Test -INFO - Item selected
+2021-12-16 19:03:51,671 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:03:54,015 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:03:56,355 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:03:56,471 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:05:06,587 - UserApp Test -INFO - Url Opened
+2021-12-16 19:05:06,602 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:05:10,928 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:05:10,982 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:05:10,982 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:05:11,010 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:05:11,368 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:05:13,614 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:05:15,808 - UserApp Test -INFO - Item selected
+2021-12-16 19:05:18,015 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:05:20,260 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:05:22,489 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:05:22,555 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:06:30,638 - UserApp Test -INFO - Url Opened
+2021-12-16 19:06:30,666 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:06:35,323 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:06:35,518 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:06:35,518 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:06:35,586 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:06:35,892 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:06:38,210 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:06:40,434 - UserApp Test -INFO - Item selected
+2021-12-16 19:06:42,673 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:06:45,046 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:06:47,372 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:06:47,525 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:11:02,117 - UserApp Test -INFO - Url Opened
+2021-12-16 19:11:02,131 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:11:06,509 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:11:06,574 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:11:06,575 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:11:06,694 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:11:06,966 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:11:09,272 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:11:11,486 - UserApp Test -INFO - Item selected
+2021-12-16 19:11:13,714 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:11:16,025 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:11:18,343 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:11:18,456 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:23:20,507 - UserApp Test -INFO - Url Opened
+2021-12-16 19:23:20,528 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:23:25,160 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:23:25,252 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:23:25,252 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:23:25,318 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:23:25,726 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:23:27,998 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:23:30,218 - UserApp Test -INFO - Item selected
+2021-12-16 19:23:32,532 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:23:34,789 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:23:37,174 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:23:37,377 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:24:10,146 - UserApp Test -INFO - Url Opened
+2021-12-16 19:24:10,161 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:24:12,716 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:24:12,792 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:24:16,392 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:24:16,493 - UserApp Test -INFO - Order Type Changed to PickUp
+2021-12-16 19:24:17,035 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:24:19,513 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:24:21,730 - UserApp Test -INFO - Item selected
+2021-12-16 19:24:24,065 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:24:26,267 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:24:28,606 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:24:28,778 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:24:34,066 - UserApp Test -INFO - Proceed to pay
+2021-12-16 19:24:53,891 - UserApp Test -INFO - Payment completed
+2021-12-16 19:24:53,953 - UserApp Test -INFO - Order Placed Verified
+2021-12-16 19:24:54,912 - UserApp Test -INFO - Order Type matched
+2021-12-16 19:25:38,963 - UserApp Test -INFO - Url Opened
+2021-12-16 19:25:40,510 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:25:42,901 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:25:43,069 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:25:43,070 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:25:43,160 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-16 19:25:45,289 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:25:47,969 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:25:50,218 - UserApp Test -INFO - Item selected
+2021-12-16 19:25:52,558 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:25:54,911 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:25:57,371 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:25:57,587 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:26:02,839 - UserApp Test -INFO - Proceed to pay
+2021-12-16 19:26:24,604 - UserApp Test -INFO - Payment completed
+2021-12-16 19:26:24,747 - UserApp Test -INFO - Order Placed Verified
+2021-12-16 19:26:25,686 - UserApp Test -INFO - Order Type matched
+2021-12-16 19:26:59,600 - UserApp Test -INFO - Url Opened
+2021-12-16 19:26:59,633 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:27:03,377 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:27:03,480 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:27:03,480 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:27:03,612 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-16 19:27:04,076 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:27:06,689 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:40:11,193 - UserApp Test -INFO - Url Opened
+2021-12-16 19:40:11,203 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:40:13,436 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:40:13,477 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:40:13,478 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:40:13,514 - UserApp Test -INFO - Order tyoe verified as dineIn
+2021-12-16 19:40:13,821 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:40:16,148 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:41:05,122 - UserApp Test -INFO - Url Opened
+2021-12-16 19:41:05,154 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:41:09,890 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:41:09,995 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:41:09,995 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:41:10,052 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:41:10,492 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:41:12,933 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:41:15,211 - UserApp Test -INFO - Item selected
+2021-12-16 19:41:17,499 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:41:19,787 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:41:22,172 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:41:22,368 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:44:50,011 - UserApp Test -INFO - Url Opened
+2021-12-16 19:44:50,032 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:44:54,794 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:44:54,865 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:44:54,865 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:44:54,942 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:44:55,269 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:45:51,543 - UserApp Test -INFO - Url Opened
+2021-12-16 19:45:51,559 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:45:56,392 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:45:56,458 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:45:56,459 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:45:56,518 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:45:57,053 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:45:59,834 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:47:16,470 - UserApp Test -INFO - Url Opened
+2021-12-16 19:47:18,226 - UserApp Test -INFO - URL opened succcessfully
+2021-12-16 19:47:22,925 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-16 19:47:23,002 - UserApp Test -INFO - Verified Restaurant name
+2021-12-16 19:47:23,066 - UserApp Test -INFO - Verify Order Type
+2021-12-16 19:47:23,136 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-16 19:47:23,642 - UserApp Test -INFO - Open menu is clicked
+2021-12-16 19:47:26,212 - UserApp Test -INFO - Menu Category is Selected
+2021-12-16 19:47:28,435 - UserApp Test -INFO - Item selected
+2021-12-16 19:47:30,723 - UserApp Test -INFO - View cart is clicked
+2021-12-16 19:47:32,927 - UserApp Test -INFO - Click On Login to Pay
+2021-12-16 19:47:35,378 - UserApp Test -INFO - Enter mobile Number
+2021-12-16 19:47:35,588 - UserApp Test -INFO - Signin to proceed
+2021-12-16 19:47:40,880 - UserApp Test -INFO - Proceed to pay
+2021-12-16 19:48:00,356 - UserApp Test -INFO - Payment completed
+2021-12-16 19:48:00,472 - UserApp Test -INFO - Order Placed Verified
+2021-12-16 19:48:01,302 - UserApp Test -INFO - Order Type matched
+2021-12-23 15:43:58,082 - UserApp Test -INFO - Url Opened
+2021-12-23 15:43:58,099 - UserApp Test -INFO - URL opened succcessfully
+2021-12-23 15:44:02,742 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-23 15:44:02,930 - UserApp Test -INFO - Verified Restaurant name
+2021-12-23 15:44:02,931 - UserApp Test -INFO - Verify Order Type
+2021-12-23 15:44:02,981 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-23 15:44:03,580 - UserApp Test -INFO - Open menu is clicked
+2021-12-23 15:44:06,195 - UserApp Test -INFO - Menu Category is Selected
+2021-12-23 15:44:08,444 - UserApp Test -INFO - Item selected
+2021-12-23 15:44:10,628 - UserApp Test -INFO - View cart is clicked
+2021-12-23 15:45:15,000 - UserApp Test -INFO - Url Opened
+2021-12-23 15:45:16,055 - UserApp Test -INFO - URL opened succcessfully
+2021-12-23 15:45:20,372 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-23 15:45:20,505 - UserApp Test -INFO - Verified Restaurant name
+2021-12-23 15:45:20,505 - UserApp Test -INFO - Verify Order Type
+2021-12-23 15:45:20,562 - UserApp Test -INFO - Order tyoe verified as delivery
+2021-12-23 15:45:20,867 - UserApp Test -INFO - Open menu is clicked
+2021-12-23 15:45:23,240 - UserApp Test -INFO - Menu Category is Selected
+2021-12-23 15:45:25,458 - UserApp Test -INFO - Item selected
+2021-12-23 15:45:27,697 - UserApp Test -INFO - View cart is clicked
+2021-12-23 15:45:29,917 - UserApp Test -INFO - Click On Login to Pay
+2021-12-23 15:45:32,197 - UserApp Test -INFO - Enter mobile Number
+2021-12-23 15:45:32,272 - UserApp Test -INFO - Signin to proceed
+2021-12-23 15:45:37,494 - UserApp Test -INFO - Proceed to pay
+2021-12-23 15:45:55,395 - UserApp Test -INFO - Payment completed
+2021-12-23 15:45:55,421 - UserApp Test -INFO - Order Placed Verified
+2021-12-23 15:45:55,946 - UserApp Test -INFO - Order Type matched
+2021-12-23 15:46:35,211 - UserApp Test -INFO - Url Opened
+2021-12-23 15:46:35,223 - UserApp Test -INFO - URL opened succcessfully
+2021-12-23 15:46:37,491 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-23 15:46:37,592 - UserApp Test -INFO - Verified Restaurant name
+2021-12-23 15:46:37,592 - UserApp Test -INFO - Verify Order Type
+2021-12-23 15:46:37,700 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-23 15:46:38,010 - UserApp Test -INFO - Open menu is clicked
+2021-12-23 15:46:40,405 - UserApp Test -INFO - Menu Category is Selected
+2021-12-23 15:46:42,619 - UserApp Test -INFO - Item selected
+2021-12-23 15:46:44,888 - UserApp Test -INFO - View cart is clicked
+2021-12-23 15:46:47,158 - UserApp Test -INFO - Click On Login to Pay
+2021-12-23 15:46:49,423 - UserApp Test -INFO - Enter mobile Number
+2021-12-23 15:46:49,491 - UserApp Test -INFO - Signin to proceed
+2021-12-23 15:46:54,694 - UserApp Test -INFO - Proceed to pay
+2021-12-23 15:47:18,413 - UserApp Test -INFO - Url Opened
+2021-12-23 15:47:18,428 - UserApp Test -INFO - URL opened succcessfully
+2021-12-23 15:47:21,674 - UserApp Test -INFO - Promotion screen enabled clicked on start ordering
+2021-12-23 15:47:21,769 - UserApp Test -INFO - Verified Restaurant name
+2021-12-23 15:47:21,770 - UserApp Test -INFO - Verify Order Type
+2021-12-23 15:47:21,932 - UserApp Test -INFO - Order type verified as takeaway
+2021-12-23 15:47:22,239 - UserApp Test -INFO - Open menu is clicked
+2021-12-23 15:47:24,617 - UserApp Test -INFO - Menu Category is Selected
+2021-12-23 15:47:26,831 - UserApp Test -INFO - Item selected
+2021-12-23 15:47:29,046 - UserApp Test -INFO - View cart is clicked
+2021-12-23 15:47:31,331 - UserApp Test -INFO - Click On Login to Pay
+2021-12-23 15:47:33,619 - UserApp Test -INFO - Enter mobile Number
+2021-12-23 15:47:33,723 - UserApp Test -INFO - Signin to proceed
+2021-12-23 15:47:38,936 - UserApp Test -INFO - Proceed to pay
